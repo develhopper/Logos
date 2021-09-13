@@ -1,0 +1,18 @@
+{
+    "name": "develhopper/logos",
+    "description": "Logos is web shell Kernel",
+    "type": "library",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "develhopper\\Logos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alireza",
+            "email": "develhoper.0@gmail.com"
+        }
+    ],
+    "require": {}
+}
