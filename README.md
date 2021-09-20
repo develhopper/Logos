@@ -5,7 +5,7 @@ The unmoveable mover
 # Installation
 
 ```
-composer requore develhopper/logos
+composer require develhopper/logos
 ```
 
 # Documentation
